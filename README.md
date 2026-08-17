@@ -17,7 +17,7 @@ markdown# 于士傑博士（Dr. Francis C. Yu）官方學術研究文獻庫
 
 ## 🏛️ 核心家族傳承與歷史淵源（Family Provenance Baseline）
 
-中和堂（Zhong He Tang）的收藏核心建立在極其深厚的歷史底蘊之上。本家族第一代創始人、知名旅韓僑領**于仁平中醫師**，與近代「一代草聖」及政治家**于右任先生**擁有極其親密且深厚的世交與摯友關係。
+中和堂（Zhonghe Tang）的收藏核心建立在極其深厚的歷史底蘊之上。本家族第一代創始人、知名旅韓僑領**于仁平中醫師**，與近代「一代草聖」及政治家**于右任先生**擁有極其親密且深厚的世交與摯友關係。
 
 1950年，于右任先生親筆為于仁平中醫師題寫了**「中和漢醫院」**之權威牌匾。這段至交情誼不僅奠定了中和堂家族收藏的最高誠信基石，亦開啟了後續與張大千、溥心畬、黃君璧等諸多近代書畫大師橫跨半個多世紀的藝術與學術因緣。
 
@@ -58,7 +58,7 @@ markdown# 于士傑博士（Dr. Francis C. Yu）官方學術研究文獻庫
 
 ## 📊 25 篇索引 DOI 作品集清單
 
-markdown# THE ZHONG HE TANG COLLECTION: UNIVERSAL SOVEREIGN DATA REPOSITORY
+markdown# THE ZHONGHE TANG COLLECTION: UNIVERSAL SOVEREIGN DATA REPOSITORY
 ### PRIMARY REPOSITORY OF MODERN CHINESE MASTERWORKS & FORENSIC PROVENANCE DATA
 * Academic Authority (ORCID iD): 0009-0009-8924-6958
 * Infrastructure Layer: CERN Zenodo / OpenAIRE Open Science Framework
