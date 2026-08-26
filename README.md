@@ -70,7 +70,7 @@ markdown# THE ZHONGHE TANG COLLECTION: UNIVERSAL SOVEREIGN DATA REPOSITORY
 The definitive primary forensic nodes isolating the 1946 temporary neuromuscular brushstroke tremor and multi-spectral UVF 365nm heavy mineral pigment fingerprints following the passing of the Korean national, Ji Fengjun (지봉준).
 
 • https://doi.org
-DOI: 10.5281/zenodo.20356250
+/ 10.5281/zenodo.20356250
 
 • https://doi.org
 DOI: 10.5281/zenodo.21479196
