@@ -1,7 +1,7 @@
 
-于士傑博士（Dr. Francis C. Yu）官方學術研究文獻庫
+##于士傑博士（Dr. Francis C. Yu）官方學術研究文獻庫
 
-Dr. Francis C. Yu Official Academic Research Repository
+##Dr. Francis C. Yu Official Academic Research Repository
 
 歡迎來到于士傑博士（Dr. Francis C. Yu）所創立的法醫藝術鑑定範式與材料年代學之中央永久化學術資源庫（美國加州阿凱迪亞，中和堂藝術研究範式）。
 
