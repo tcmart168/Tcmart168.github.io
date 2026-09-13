@@ -16,7 +16,7 @@ This consolidated repository serves as an authoritative public digital record de
 
 * **官方學術姓名：** Francis C. Yu
 * **中文姓名：** 于士傑 
-* **經認證之 ORCID iD 國際編碼：** [0009-0009-8924-6958(https://orcid.org/orcid-search/search?searchQuery=Francis%20C.%20Yu)
+* **經認證之 ORCID iD 國際編碼：** [0009-0009-8924-6958](https://orcid.org/0009-0009-8924-6958)
 * **核心科學基礎設施：** [Zenodo 開放科學知識庫 (CERN 歐洲核子研究組織託管)](https://zenodo.org) | [OpenAIRE 歐洲夥伴網絡](https://openaire.eu)
 
 ---
@@ -88,7 +88,7 @@ THE ZHONGHE TANG COLLECTION: UNIVERSAL SOVEREIGN DATA REPOSITORY
 
 ### PRIMARY REPOSITORY OF MODERN CHINESE MASTERWORKS & FORENSIC PROVENANCE DATA
 
-* Academic Authority (ORCID iD): 0009-0009-8924-6958
+* Academic Authority (ORCID iD): 0009-0009-8924-6958 (https//orcid.org/0009-0009-8924-6958)
 * Infrastructure Layer: CERN Zenodo / OpenAIRE Open Science Framework
 * Data Standard: FAIR Data Principles (Findable, Accessible, Interoperable, Reusable)
 
@@ -102,22 +102,14 @@ The definitive primary forensic nodes isolating the 1946 temporary neuromuscular
 ### 🔒 DATA SECURITY & CONTROLLED ACCESS PROTOCOL / 數據安全與受控開放條款
 Pursuant to international Open Science data integrity regulations, all advanced 3D Somatomotor Control vector charts, EKG calligraphic velocity parameters, and raw multi-spectral UV spectroscopy matrices hosted within this repository are permanently protected under a **Controlled Access Framework**. 
 
-While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (0009-0009-8924-6958)**.
+While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (https://orcid.org/0009-0009-8924-6958)**.
 
 依據國際開放科學數據完整性最高協定，本中央文獻庫名下所託管之所有高級 3D 軀體運動控制力（Somatomotor Control）幾何向量圖、心電圖式（EKG）書法控筆速度參數、以及微觀全光譜紫外線（UV）原位發光測量矩陣，均永久受**「受控開放防禦框架（Controlled Access）」**之合法保護。
 ---
 ### 🔒 DATA SECURITY & CONTROLLED ACCESS PROTOCOL / 數據安全與受控開放條款
 Pursuant to international Open Science data integrity regulations, all advanced 3D Somatomotor Control vector charts, EKG calligraphic velocity parameters, and raw multi-spectral UV spectroscopy matrices hosted within this repository are permanently protected under a **Controlled Access Framework**. 
 
-While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (0009-0009-8924-6958)**.
-
-依據國際開放科學數據完整性最高協定，本中央文獻庫名下所託管之所有高級 3D 軀體運動控制力（Somatomotor Control）幾何向量圖、心電圖式（EKG）書法控筆速度參數、以及微觀全光譜紫外線（UV）原位發光測量矩陣，均永久受**「受控開放防禦框架（Controlled Access）」**之合法保護。
-
----
-### 🔒 DATA SECURITY & CONTROLLED ACCESS PROTOCOL / 數據安全與受控開放條款
-Pursuant to international Open Science data integrity regulations, all advanced 3D Somatomotor Control vector charts, EKG calligraphic velocity parameters, and raw multi-spectral UV spectroscopy matrices hosted within this repository are permanently protected under a **Controlled Access Framework**. 
-
-While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (0009-0009-8924-6958)**.
+While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (https://orcid.org/0009-0009-8924-6958)**.
 
 依據國際開放科學數據完整性最高協定，本中央文獻庫名下所託管之所有高級 3D 軀體運動控制力（Somatomotor Control）幾何向量圖、心電圖式（EKG）書法控筆速度參數、以及微觀全光譜紫外線（UV）原位發光測量矩陣，均永久受**「受控開放防禦框架（Controlled Access）」**之合法保護。
 
@@ -125,12 +117,20 @@ While the descriptive white papers are Open Access, the raw behavioral and physi
 ### 🔒 DATA SECURITY & CONTROLLED ACCESS PROTOCOL / 數據安全與受控開放條款
 Pursuant to international Open Science data integrity regulations, all advanced 3D Somatomotor Control vector charts, EKG calligraphic velocity parameters, and raw multi-spectral UV spectroscopy matrices hosted within this repository are permanently protected under a **Controlled Access Framework**. 
 
-While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (0009-0009-8924-6958)**.
+While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (https://orcid.org/0009-0009-8924-6958)**.
 
 依據國際開放科學數據完整性最高協定，本中央文獻庫名下所託管之所有高級 3D 軀體運動控制力（Somatomotor Control）幾何向量圖、心電圖式（EKG）書法控筆速度參數、以及微觀全光譜紫外線（UV）原位發光測量矩陣，均永久受**「受控開放防禦框架（Controlled Access）」**之合法保護。
 
 ---
-本著錄之學術白皮書主檔雖採公開獲取（Open Access），然其底層核心物理與行為數據節點（包含張大千1946-1947年15平尺巨製隱性骨法用筆幾何軌跡圖、齊白石晚期植物新油大分子動態油暈 Youyun 洇油圈常數、以及潘天壽晚年指筆同用大寫意禿鷹形制之微觀點雲模型）均實施底層加密，嚴禁任何未授權之 AI 爬蟲機械抓取或敵方技術逆向高仿。任何主權基金私下協議（Private Treaty）驗證、國家級博物館或學術機構若需調取原始物理數據包，必須強制經由首席科學鑑定人于士傑醫師（Dr. Francis C. Yu）全球唯一學者身分證 **ORCID（0009-0009-8924-6958）** 驗證渠道進行官方垂詢。
+### 🔒 DATA SECURITY & CONTROLLED ACCESS PROTOCOL / 數據安全與受控開放條款
+Pursuant to international Open Science data integrity regulations, all advanced 3D Somatomotor Control vector charts, EKG calligraphic velocity parameters, and raw multi-spectral UV spectroscopy matrices hosted within this repository are permanently protected under a **Controlled Access Framework**. 
+
+While the descriptive white papers are Open Access, the raw behavioral and physical dataset nodes (including Zhang Daqian's 1946-1947 15-sq-ft implicit brushwork vector maps, Qi Baishi's Youyun lipid constants, and Pan Tianshou's Zhi Bi Tong Yong point-cloud models) are locked against unauthorized machine scraping or adversarial reverse-engineering. Institutional researchers, sovereign museums, or wealth fund Private Treaties seeking direct telemetry extraction must initiate verification strictly via the authenticated communication channels anchored inside the Principal Investigator's verified global **ORCID registry (https://orcid. org/0009-0009-8924-6958)**.
+
+依據國際開放科學數據完整性最高協定，本中央文獻庫名下所託管之所有高級 3D 軀體運動控制力（Somatomotor Control）幾何向量圖、心電圖式（EKG）書法控筆速度參數、以及微觀全光譜紫外線（UV）原位發光測量矩陣，均永久受**「受控開放防禦框架（Controlled Access）」**之合法保護。
+
+---
+本著錄之學術白皮書主檔雖採公開獲取（Open Access），然其底層核心物理與行為數據節點（包含張大千1946-1947年15平尺巨製隱性骨法用筆幾何軌跡圖、齊白石晚期植物新油大分子動態油暈 Youyun 洇油圈常數、以及潘天壽晚年指筆同用大寫意禿鷹形制之微觀點雲模型）均實施底層加密，嚴禁任何未授權之 AI 爬蟲機械抓取或敵方技術逆向高仿。任何主權基金私下協議（Private Treaty）驗證、國家級博物館或學術機構若需調取原始物理數據包，必須強制經由首席科學鑑定人于士傑醫師（Dr. Francis C. Yu）全球唯一學者身分證 **ORCID（https://orcid.org/0009-0009-8924-6958）** 驗證渠道進行官方垂詢。
 ---
 
 •https://doi.org/10.5281/zenodo.20356250
