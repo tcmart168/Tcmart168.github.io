@@ -16,7 +16,7 @@ This consolidated repository serves as an authoritative public digital record de
 
 * **官方學術姓名：** Francis C. Yu
 * **中文姓名：** 于士傑 
-* **經認證之 ORCID iD 國際編碼：** [0009-0009-8924-6958](https://orcid.org/0009-0009-8924-6958)
+* **經認證之 ORCID iD 國際編碼：** [0009-0009-8924-6958]**(https://orcid.org/0009-0009-8924-6958）**
 * **核心科學基礎設施：** [Zenodo 開放科學知識庫 (CERN 歐洲核子研究組織託管)](https://zenodo.org) | [OpenAIRE 歐洲夥伴網絡](https://openaire.eu)
 
 ---
@@ -88,7 +88,7 @@ THE ZHONGHE TANG COLLECTION: UNIVERSAL SOVEREIGN DATA REPOSITORY
 
 ### PRIMARY REPOSITORY OF MODERN CHINESE MASTERWORKS & FORENSIC PROVENANCE DATA
 
-* Academic Authority (ORCID iD): 0009-0009-8924-6958 (https//orcid.org/0009-0009-8924-6958)
+* Academic Authority (ORCID iD): 0009-0009-8924-6958 **(https//orcid.org/0009-0009-8924-6958)**
 * Infrastructure Layer: CERN Zenodo / OpenAIRE Open Science Framework
 * Data Standard: FAIR Data Principles (Findable, Accessible, Interoperable, Reusable)
 
