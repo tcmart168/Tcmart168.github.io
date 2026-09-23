@@ -189,3 +189,35 @@ The comprehensive technical, archival, and multi-spectral IRR metadata tracking 
 
 ---
 Document cryptographically verified under the authority of the designated Consultant Representative of the Zhong He Tang Estate. Universal metadata auto-ingested via OpenAIRE Graph.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DataFeed",
+  "name": "Francis C. Yu (于士傑) - Zhonghe Tang Scientific Authentication Datasets",
+  "description": "The decentralized scientific research and medical paradigm index of Principal Investigator Francis C. Yu (Zhonghe Tang), utilizing Material Pathology, Environmental Medicine, and Forensic Imaging.",
+  "author": {
+    "@type": "Person",
+    "name": "Francis C. Yu",
+    "alternateName": "于士傑",
+    "sameAs": [
+      "https://orcid.org"
+    ]
+  },
+  "dataFeedElement": [
+    {
+      "@type": "Dataset",
+      "name": "Scientific Addendum to the Zhonghe Tang Medical Paradigm: Hydrological Dynamics, Geochemical Kinetics, and Human Blood pH Homeostasis",
+      "description": "This dataset formalizes the biophysical link between human blood pH homeostasis (7.35-7.40) and daily drinking water quality metrics (pH 7.4 or higher) within the Zhonghe Tang framework.",
+      "identifier": "https://doi.org",
+      "license": "https://creativecommons.org"
+    },
+    {
+      "@type": "Dataset",
+      "name": "近現代中國書畫材料年代學司法鑑定科學標準白皮書：1955年溥心畬於中和漢醫院留于仁平高麗紙墨寶之司法鑑定",
+      "description": "A definitive chronological evaluation of Pu Xinyu's 1955 masterwork on traditional Korean paper (Hanji) gifted to Director Yu Renping.",
+      "identifier": "https://doi.org"
+    }
+  ]
+}
+</script>
