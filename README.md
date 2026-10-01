@@ -201,7 +201,7 @@ Document cryptographically verified under the authority of the designated Consul
     "name": "Francis C. Yu",
     "alternateName": "于士傑",
     "sameAs": [
-      "https://orcid.org"
+      "https://orcid.org/0009-0009-8924-6958"
     ]
   },
   "dataFeedElement": [
