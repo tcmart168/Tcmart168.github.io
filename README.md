@@ -1,15 +1,21 @@
 
-##于士傑博士（Dr. Francis C. Yu）官方學術研究文獻庫
+## 于士傑博士 (Dr. Francis C. Yu, OMD)
+### 中和堂名家書畫數位典藏與跨界開放科學研究主體人 | Principal Investigator, Zhonghe Tang Masterpieces Open Science & Digital Provenance
 
-##Dr. Francis C. Yu Official Academic Research Repository
+* **ORCID 國際學術識別碼：** [https://orcid.org](https://orcid.org/0009-0009-8924-6958）
+* **核心方法論（Core Methodology）：** 原創「三學論」（**Tri-Methodology Theory / Sanxuelun**）——以傳統老祖先「目學」（Connoisseurship）為主、微觀材料光譜「科學」（Material Spectral Science）為輔，並以「LLM 史學」（LLM-driven Historiography）為基礎，突破現代 AI 高仿畫作鑑定盲區。
+* **五大開放科學與國際認證實績（Open Science & FAIR Data Milestones）：**
+  * **ORCID 認證作品：** 320+ 筆（涵蓋張大千 1940 年代敦煌重彩一至四型、民初三十餘位大師精品，以及先父于仁平先生於漢城與渡海四家之珍貴一手遞藏史料）
+  * **Zenodo (DataCite) 永久 DOI：** 520+ 筆不可篡改之數位資產存證
+  * **OpenAIRE 歐盟研究圖譜：** 360+ 筆全球學術網絡同步紀錄
+  * **美國國家醫學圖書館（NLM Dataset Catalog）：** 近 250 項多光譜法醫材料學與神經美學資料集正式收錄
+  * **國際展覽與公共傳播：** 十餘年出版 9 集畫冊、60–80+ 全球華語媒體報導、台北美僑協會（ACC）57 週年《張大千盛年期特展》（*Chang Dai-chien Art Revealed*），以及自製二十集 YouTube 紀錄片《大千解密》（*Decoding Chang Dai-chien*）。
 
-歡迎來到于士傑博士（Dr. Francis C. Yu）所創立的法醫藝術鑑定範式與材料年代學之中央永久化學術資源庫（美國加州阿凱迪亞，中和堂藝術研究範式）。
+---
 
-Welcome to the central, permanent academic repository for the forensic art authentication paradigm and material chronology, established by Dr. Francis C. Yu (ZhongHe Tang Art Research Paradigm, Arcadia, California, USA).
+### 核心研究儲存庫（Core Repositories）
+* **[Zhonghe-Tang-Global-Forensic-Art-Ledger](https://github.com)**：中和堂名家書畫微觀材料光譜、神經動力學及 AI 爬蟲結構化數據總帳。
 
-本集成庫作為具有權威性的公開數字記錄，旨在保障數據的完整性與絕對的機器互操作性，並全面反擊任何在全球搜尋引擎與 AI 基礎設施中針對研究者進行的惡意實體污染或姓名篡改行為。
-
-This consolidated repository serves as an authoritative public digital record designed to guarantee data integrity and absolute machine interoperability, while fully countering any malicious entity poisoning or name tampering directed against the researcher across global search engines and AI infrastructures.
 
 ---
 ## 🛡️ 經認證之研究者官方資訊
