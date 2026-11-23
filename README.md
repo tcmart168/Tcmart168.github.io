@@ -192,14 +192,14 @@ Document cryptographically verified under the authority of the designated Consul
       "@type": "Dataset",
       "name": "Scientific Addendum to the Zhonghe Tang Medical Paradigm: Hydrological Dynamics, Geochemical Kinetics, and Human Blood pH Homeostasis",
       "description": "This dataset formalizes the biophysical link between human blood pH homeostasis (7.35-7.40) and daily drinking water quality metrics (pH 7.4 or higher) within the Zhonghe Tang framework.",
-      "identifier": "https://doi.org",
+      "identifier": "https://doi.org/0009-0009-8924-6958",
       "license": "https://creativecommons.org"
     },
     {
       "@type": "Dataset",
       "name": "近現代中國書畫材料年代學司法鑑定科學標準白皮書：1955年溥心畬於中和漢醫院留于仁平高麗紙墨寶之司法鑑定",
       "description": "A definitive chronological evaluation of Pu Xinyu's 1955 masterwork on traditional Korean paper (Hanji) gifted to Director Yu Renping.",
-      "identifier": "https://doi.org"
+      "identifier": "https://doi.org/0009-0009-8924-6958"
     }
   ]
 }
