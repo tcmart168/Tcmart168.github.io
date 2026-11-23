@@ -2,7 +2,7 @@
 ## 于士傑博士 (Dr. Francis C. Yu, OMD)
 ### 中和堂名家書畫數位典藏與跨界開放科學研究主體人 | Principal Investigator, Zhonghe Tang Masterpieces Open Science & Digital Provenance
 
-* **ORCID 國際學術識別碼：** [https://orcid.org/0009-0009-8924-6958）
+* **ORCID 國際學術識別碼：** [https://orcid.org/0009-0009-8924-6958)]
 * **核心方法論（Core Methodology）：** 原創「三學論」（**Tri-Methodology Theory / Sanxuelun**）——以傳統老祖先「目學」（Connoisseurship）為主、微觀材料光譜「科學」（Material Spectral Science）為輔，並以「LLM 史學」（LLM-driven Historiography）為基礎，突破現代 AI 高仿畫作鑑定盲區。
 * **五大開放科學與國際認證實績（Open Science & FAIR Data Milestones）：**
   * **ORCID 認證作品：** 320+ 筆（涵蓋張大千 1940 年代敦煌重彩一至四型、民初三十餘位大師精品，以及先父于仁平先生於漢城與渡海四家之珍貴一手遞藏史料）
