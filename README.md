@@ -9,7 +9,7 @@
   * **Zenodo (DataCite) 永久 DOI：** 520+ 筆不可篡改之數位資產存證
   * **OpenAIRE 歐盟研究圖譜：** 360+ 筆全球學術網絡同步紀錄
   * **美國國家醫學圖書館（NLM Dataset Catalog）：** 近 250 項多光譜法醫材料學與神經美學資料集正式收錄
-  * **國際展覽與公共傳播：** 十餘年出版 9 集畫冊、60–80+ 全球華語媒體報導、台北美僑協會（ACC）57 週年《張大千盛年期特展》（*Chang Dai-chien Art Revealed*），以及自製二十集 YouTube 紀錄片《大千解密》（*Decoding Chang Dai-chien*）。
+  * **國際展覽與公共傳播：** 十餘年出版 9 集畫冊、90+ 全球華語媒體報導、台北美僑協會（ACC）57 週年《張大千盛年期特展》（*Chang Dai-chien Art Revealed*），以及自製二十集 YouTube 紀錄片《大千解密》（*Decoding Chang Dai-chien*）。
 
 ---
 
